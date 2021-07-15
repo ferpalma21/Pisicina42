@@ -1,0 +1,7 @@
+main*
+a.out
+*/a.out
+*/main.c
+.DS_Store
+*/.DS_Store
+*.sh

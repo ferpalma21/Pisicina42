@@ -1,0 +1,5 @@
+Credentials cache: API:D44D6CFF-49F9-4AF3-9DF3-8ECE8B545A04
+        Principal: dpalma-l@42MADRID.COM
+
+  Issued                Expires               Principal
+Jun 24 14:58:35 2021  Jun 25 00:58:35 2021  krbtgt/42MADRID.COM@42MADRID.COM
